@@ -1,32 +1,5 @@
-# README #
+# GO playing AI with Minimax and Alpha-Beta pruning
+The goal of this project is to develop an AI wchich is capable of playing the game of GO against
+the player and against other AIs using a minimax algorithm with alpha beta pruning.
 
-
-DRIVE:   https://docs.google.com/document/d/1E8GU2s5s5gdlD28K52UxKMqr3HjfB_oiuc1UlYwyOEA/edit
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+For an example on the project see video.mp4 in the project's root directory.
